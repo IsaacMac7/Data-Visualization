@@ -1,0 +1,153 @@
+Country,Region,Capita,gdp
+Albania,Europe,0.07,9927
+Algeria,Africa,0.14,12871
+Angola,Africa,0.06,5898
+Antigua and Barbuda,North America,0.66,19213
+Argentina,South America,0.18,18712
+Aruba,North America,0.25,35974
+Australia,Oceania,0.11,41464
+Bahamas,North America,0.39,29222
+Bahrain,Asia,0.13,40571
+Bangladesh,Asia,0.03,2443
+Barbados,North America,0.57,16418
+Belgium,Europe,0.08,41086
+Belize,North America,0.17,7877
+Benin,Africa,0.04,1819
+Bermuda,North America,0.25,56395
+Bosnia and Herzegovina,Europe,0.14,9720
+Brazil,South America,0.17,14538
+Brunei,Asia,0.03,80553
+Bulgaria,Europe,0.15,15283
+Cambodia,Asia,0.07,2523
+Cameroon,Africa,0.05,2930
+Canada,North America,0.09,40699
+Cape Verde,Africa,0.07,5828
+Cayman Islands,North America,0.25,49903
+Chile,South America,0.12,19442
+China,Asia,0.12,9526
+Colombia,South America,0.14,10901
+Comoros,Africa,0.2,1413
+Congo,Africa,0.07,5186
+Costa Rica,South America,0.26,13000
+Cote d'Ivoire,Africa,0.1,2690
+Croatia,Europe,0.25,20172
+Cyprus,Europe,0.25,33941
+Democratic Republic of Congo,Africa,0.04,660
+Denmark,Europe,0.05,43998
+Djibouti,Africa,0.1,2705
+Dominica,North America,0.15,10198
+Dominican Republic,North America,0.14,11133
+Ecuador,South America,0.15,9352
+Egypt,Africa,0.18,9857
+El Salvador,North America,0.15,6301
+Equatorial Guinea,Africa,0.14,33723
+Eritrea,Africa,0.04,1416
+Estonia,Europe,0.18,22741
+Fiji,Oceania,0.19,7352
+Finland,Europe,0.23,39848
+France,Europe,0.19,36856
+Gabon,Africa,0.05,15356
+Gambia,Africa,0.05,1644
+Georgia,Asia,0.07,6734
+Germany,Europe,0.48,40429
+Ghana,Africa,0.04,3059
+Greece,Europe,0.2,28726
+Grenada,North America,0.33,11178
+Guatemala,North America,0.28,6714
+Guinea,Africa,0.03,1574
+Guinea-Bissau,Africa,0.05,1400
+Guyana,South America,0.59,5848
+Haiti,North America,0.09,1502
+Honduras,North America,0.19,3971
+Hong Kong,Asia,0.4,48108
+Iceland,Europe,0.28,38978
+India,Asia,0.01,4405
+Indonesia,Asia,0.06,8433
+Iran,Asia,0.14,17943
+Iraq,Asia,0.1,12718
+Ireland,Europe,0.43,44030
+Israel,Asia,0.3,29743
+Italy,Europe,0.13,36201
+Jamaica,North America,0.03,7996
+Japan,Asia,0.17,35750
+Jordan,Asia,0.14,9473
+Kenya,Africa,0.03,2476
+Kiribati,Oceania,0.1,1732
+Kuwait,Asia,0.69,75204
+Latvia,Europe,0.12,18252
+Lebanon,Asia,0.09,16452
+Liberia,Africa,0.08,700
+Libya,Africa,0.14,29630
+Lithuania,Europe,0.13,21071
+Macau,Asia,0.37,98184
+Madagascar,Africa,0.02,1386
+Malaysia,Asia,0.2,21107
+Maldives,Asia,0.32,12006
+Malta,Europe,0.21,28365
+Marshall Islands,Oceania,0.19,3479
+Mauritania,Africa,0.04,3317
+Mauritius,Africa,0.23,15938
+Mexico,North America,0.09,15716
+Micronesia,Oceania,0.1,3298
+Montenegro,Europe,0.14,14035
+Morocco,Africa,0.07,6443
+Mozambique,Africa,0.01,918
+Myanmar,Asia,0.07,3721
+Namibia,Africa,0.14,8461
+Nauru,Oceania,0.14,6592
+Netherlands,Europe,0.42,45525
+New Zealand,Oceania,0.33,32119
+Nicaragua,North America,0.14,4029
+Nigeria,Africa,0.1,5150
+Norway,Europe,0.28,62350
+Oman,Asia,0.08,45336
+Pakistan,Asia,0.1,4284
+Palau,Oceania,0.14,11847
+Palestine,Asia,0.06,4173
+Panama,North America,0.14,15629
+Papua New Guinea,Oceania,0.1,3192
+Peru,South America,0.14,9957
+Philippines,Asia,0.07,5597
+Poland,Europe,0.1,21771
+Portugal,Europe,0.27,27238
+Puerto Rico,North America,0.25,33924
+Qatar,Asia,0.16,125141
+Romania,Europe,0.04,17553
+Russia,Europe,0.11,23108
+Saint Kitts and Nevis,North America,0.65,21412
+Saint Lucia,North America,0.52,12124
+Saint Vincent and the Grenadines,North America,0.22,9916
+Samoa,Oceania,0.1,5400
+Sao Tome and Principe,Africa,0.1,2642
+Saudi Arabia,Asia,0.16,45421
+Senegal,Africa,0.1,2184
+Seychelles,Africa,0.36,20365
+Sierra Leone,Africa,0.04,1200
+Singapore,Asia,0.19,72116
+Sint Maarten (Dutch part),North America,0.25,36327
+Slovenia,Europe,0.14,28678
+Solomon Islands,Oceania,0.1,1871
+South Africa,Africa,0.24,11888
+South Korea,Asia,0.11,30352
+Spain,Europe,0.28,32507
+Sri Lanka,Asia,0.36,8530
+Sudan,Africa,0.1,3366
+Suriname,South America,0.16,14212
+Sweden,Europe,0.05,42943
+Tanzania,Africa,0.02,2091
+Thailand,Asia,0.14,13487
+Togo,Africa,0.06,1208
+Tonga,Oceania,0.22,4984
+Trinidad and Tobago,North America,0.29,31261
+Tunisia,Africa,0.14,10436
+Turkey,Asia,0.21,17959
+Tuvalu,Oceania,0.14,2986
+Ukraine,Europe,0.1,7824
+United Arab Emirates,Asia,0.2,57233
+United Kingdom,Europe,0.21,36367
+United States,North America,0.34,49374
+Uruguay,South America,0.25,17082
+Vanuatu,Oceania,0.29,2948
+Venezuela,South America,0.25,16545
+Vietnam,Asia,0.1,4408
+Yemen,Asia,0.1,4479

@@ -1,0 +1,87 @@
+  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Data Visualisation Project"/>
+    <meta name="keywords" content="HTML, CSS, JS, D3"/>
+    <meta name="author" content="Tommy Zhang, Issac Macandog"/>
+    <title>Plastic Waste Around The World</title>
+
+    <link rel="stylesheet" href="styles/style.css">
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+    <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>    
+    <script src="scripts/script.js"></script>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#story">Story</a></li>
+            <li><a href="#plastic">Plastic Built Up On Land.</a></li>
+            <li><a href="#plastic-G-R-L">Plastic Generated, Recycled and Landfilled</a></li>
+            <li><a href="#plastic-capita">Per Capita Plastic Waste Compared to GDP</a></li>
+        </ul>
+    </nav>
+
+    <section id="main">
+        <section class="hud">
+            <h1>The Current State <span>of Plastic Waste </span> Around <span>The World</span></h1>
+        </section>
+
+        <section id="story" class="hud">
+            <article>
+                <h2>Why it matters</h2>
+                <p class="quote">
+                    "Among the global businesses responsible for 55% of the world’s plastic packaging waste are both state-owned and multinational corporations, including oil and gas giants and chemical companies, according to a comprehensive new analysis" 
+                    - <a href="https://www.theguardian.com/environment/2021/may/18/twenty-firms-produce-55-of-worlds-plastic-waste-report-reveals" target="_blank">Sandra Laville, 2021</a></p>
+                <p class="quote">
+                    "Efficiently recycling plastic by conventional means is notoriously difficult, and only 9% of all plastic ever made has been recycled into new plastics."
+                    - <a href="https://www.bbc.com/future/article/20210510-how-to-recycle-any-plastic" target="_blank">Katherine Latham, 2021</a>
+                </p>
+                <p>
+                    It has been known throughout the world that plastic is one of the most used resource known to man. It has a plausible cause to the contribution towards
+                    global warming.
+                </p>
+                <p>
+                    Plastic Waste that have been littered around the world is <a href="#plastic">demonstrated here</a>, as it shows that countries that have big population(darker regions of the map) tend to 
+                    produce the most litter while countries that are have a smaller population tend to produce the least amount of litter.
+                </p>
+                <p>
+                    We all know that plastic is used for materialistic things, but with <a href="#plastic-G-R-L">this visalisation</a>, we are able to understand the amount of plastic that was generated, recycled or landfilled between 
+                    1960-2018. We are able to see a increasing trend as the year goes by, but what we can also determine from the area chart, is how plastic that is generated is mostly landfilled rather than recycled which speaks alot
+                    for the world.
+                </p>
+                <p>
+                    Finally, We are all keen to find out the per capita of plastic waste compared to the gdp per capita. Therefore with <a href="#plastic-capita">this visualisation</a>,
+                    we are able to find out which country has the highest capita to gdp value. It seems that Asian countries tend to have a higher gdp to capita ratio.
+
+                </p>
+
+            </article>
+        </section>
+
+
+        <section id="plastic" class="hud2">
+            <h2>How much plastic mass has built up on land?</h1>
+                <svg id="chart" width="1500" height="800"></svg>
+                <p id="textbox"></p>
+        </section>
+
+        <section id="plastic-G-R-L" class="hud3">
+            <h2>What is being done to manage plastic waste?</h1>
+            <p id="chart2"></p>
+        </section>
+
+        <section id="plastic-capita" class="hud4">
+            <h2>What is the per capita plastic waste when compared to the GDP per capita?</h1>
+            <input id="logCheckbox" type="checkbox" value="logscale"></input>
+            <label for="logscale">Log scale</label>
+            <p id="tooltip">Tooltip:</p>
+            <p id="chart3"></p>
+        </section>
+</body>
+<footer>COS30045 Data Visualisation <br> Tommy Zhang (103073380) <br> Issac Macandog (102997476)</footer>
+</html>
+
